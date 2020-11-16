@@ -44,7 +44,7 @@ yarn install
 
 ### Mocking API
 
- - We use `mockserver` to mock the server responses.
+ - We use [mockserver](https://www.npmjs.com/package/mockserver) to mock the server responses.
 
 ##### Usage
 

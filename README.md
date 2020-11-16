@@ -4,7 +4,7 @@ This project extended for a two weeks time period and concluded our time as Stud
 
 The API that supports this client can be found in [this Repo](https://github.com/emiliano-ma/develUp_api)
 
-[develUp image](./public/develup.png)
+![develUp image](./public/develup.png)
 
 ## develUp
 

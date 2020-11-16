@@ -1,6 +1,6 @@
 # Final Project
 
-This project extended for a two weeks time period and concluded our time as Students at [Craft Academy](https://craftacademy.se). We built develUp using [Expo](https://expo.io), [React Native](https://reactnative.dev) and Ruby on Rails for the backend.
+This project extended for a two weeks time period and concluded our time as Students at [Craft Academy](https://craftacademy.se). We built develUp using  [Expo](https://expo.io),  [React Native](https://reactnative.dev)  and Ruby on Rails for the backend.
 
 The API that supports this client can be found in [this Repo](https://github.com/emiliano-ma/develUp_api)
 

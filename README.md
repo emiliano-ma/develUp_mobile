@@ -27,7 +27,7 @@ This amount of points will be obtained by the chosen develUper, once the task is
 
 DevelUpers will be able to scale levels based on the amount of points they have, and by doing so, we want to obtain a system where the levels of the develUpers represent their skills. Companies can trust in them and in our system.
 
-##### Setup
+### Setup
 
 ... get [Yarn](https://yarnpkg.com/)
 

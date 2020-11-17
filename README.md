@@ -10,7 +10,7 @@ The API that supports this client can be found in [this Repo](https://github.com
 
 develUp was born with the simple idea of providing a platform that connects freelance developers with companies in a trustworthy and score based environment
 
-How do we achieve our goal?
+#### How do we achieve our goal?
 
 The idea is as follows: companies (clients), will publish a task that they need to perform. On the other side, the 'develUpers' will be able to see the tasks and apply to them if they are interested.
 
@@ -23,7 +23,7 @@ The more skills needed and the longer the estimated time, the higher the score.
 
 This amount of points will be obtained by the chosen develUper, once the task is delivered and the client is satisfied.
 
-What will happen next with these points?
+#### What will happen next with these points?
 
 DevelUpers will be able to scale levels based on the amount of points they have, and by doing so, we want to obtain a system where the levels of the develUpers represent their skills. Companies can trust in them and in our system.
 
